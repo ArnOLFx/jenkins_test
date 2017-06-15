@@ -5,7 +5,7 @@ import java.util.LinkedList;
  * Created by arnolf on 2017-05-04.
  */
 public class anotherfile {
-
+    //A comment
     List<Integer> list;
 
     public anotherfile() {
